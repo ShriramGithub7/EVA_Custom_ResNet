@@ -1,1 +1,0 @@
-# EVA_Custom_ResNet
